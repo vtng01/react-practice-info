@@ -1,0 +1,16 @@
+.type {
+  background: green;
+  color: white;
+}
+
+.move {
+  background: white;
+  color: green;
+}
+
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
